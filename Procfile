@@ -1,0 +1,1 @@
+web gunicorn deploy_django_blog.wsgi:application --log-file -
